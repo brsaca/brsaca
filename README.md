@@ -1,7 +1,7 @@
 ## Hi I'm [Brenda Saavedra](http://brendasaavedra.com) 👋
 
 
-### Hey there! I wear the hat of an Engineering Manager who's particularly smitten with iOS development. Currently, I'm on a journey to explore FlutterFlow as a fresh low-code alternative, aiming to leverage its power on various exciting projects. 🚀
+### Hey there! I'm an Engineering Manager with a deep passion for Swift and iOS development. Currently, I'm immersed in honing my SwiftUI skills and delving into FlutterFlow as an innovative low-code solution, eager to harness its capabilities for exciting new projects... 🚀
 
 Get in touch wit me!
 
