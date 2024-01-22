@@ -16,7 +16,6 @@ Check out my latest project, Quotitude, on the App Store. Quotitude is more than
 
 | iOS |
 |:-:|
-| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/800px-Download_on_the_App_Store_Badge.svg.png" height="50">]([https://itunes.apple.com/us/app/jitsi-meet/id1165103905](https://apps.apple.com/es/app/quotitude/id6471519715)) |
-
+| [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/800px-Download_on_the_App_Store_Badge.svg.png" height="50">](https://apps.apple.com/es/app/quotitude/id6471519715) |
 
 Feel free to explore the code and provide feedback. I'm always open to collaboration and improvement. Thanks for stopping by!
