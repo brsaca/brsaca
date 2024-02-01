@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Brenda Saavedra, an Engineering Manager with a profound passion for Swift and iOS development. Currently, I'm focused on refining my SwiftUI skills and exploring FlutterFlow as an innovative low-code solution. I'm enthusiastic about leveraging its capabilities for exciting new projects that push the boundaries of what's possible in the world of mobile development. 🚀
+I'm Brenda Saavedra, an Engineering Manager deeply passionate about Swift and iOS development. Currently, I'm dedicated to honing my skills in SwiftUI and delving into the realms of FlutterFlow as an innovative low-code solution and Flutter as a hybrid solution. Excited to harness their power for thrilling projects that redefine the mobile development landscape. Let's code our way to new horizons! 🚀
 
 ## Connect with Me
 
